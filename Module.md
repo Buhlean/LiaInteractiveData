@@ -26,7 +26,7 @@ script: https://cdn.jsdelivr.net/gh/Buhlean/LiaInteractiveData/src/Module.min.js
 @end
 
 -->
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/Buhlean/LiaInteractiveData/master/Module.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/Buhlean/LiaInteractiveData/main/Module.md)
 
 # Module Interactive Data
 
