@@ -4,25 +4,25 @@ author: Alexander Buhl
 script: https://cdn.jsdelivr.net/gh/Buhlean/LiaInteractiveData/src/Module.min.js
 
 @data
-<script>console.log('@0: ' + @1);</script>
+<script>console.log('@0: ' + '@1');</script>
 @end
 
 @calculations
-<script>console.log('@0: ' + @1);</script>
+<script>console.log('@0: ' + '@1');</script>
 @end
 
 @subtotal
-<script>console.log('@0: ' + @1);</script>
+<script>console.log('@0: ' + '@1');</script>
 @end
 
 @input
-<script>console.log('@0: ' + @1);</script>
-@1 @2
+<script>console.log('@0: ' + '@1');</script>
+"@1" "@2"
 @end
 
 @output
-<script>console.log('@0: ' + @1);</script>
-0 @2
+<script>console.log('@0: ' + '@1');</script>
+"0" "@2"
 @end
 
 -->
